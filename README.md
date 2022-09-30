@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm La Loutre, a french crypto content creator on [Twitter](https://twitter.com/laloutre).
+I'm La Loutre, a french crypto content creator on [Twitter](https://twitter.com/laloutre). I make educational thread to explain crypto concepts and make tutorial to help the beginners.
 
 
-Currently building [@ToolsSolana](https://twitter.com/ToolsSolana), a bunch of useful tools to help people in the [Solana](https://solana.com/fr) ecosystem.
+🏗️ Currently building [@ToolsSolana](https://twitter.com/ToolsSolana), a bunch of useful tools to help people in the [Solana](https://solana.com/fr) ecosystem.
 
 <!--
 **cryptoloutre/cryptoloutre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
