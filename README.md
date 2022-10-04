@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm La Loutre, a french crypto content creator on [Twitter](https://twitter.com/laloutre). I make educational thread to explain crypto concepts and make tutorial to help the beginners.
+I'm La Loutre, a french crypto content creator on [Twitter](https://twitter.com/laloutre). I make educational threads to explain crypto concepts and make tutorials to help the beginners.
 
 
 🏗️ Currently building [@ToolsSolana](https://twitter.com/ToolsSolana), a bunch of useful tools to help people in the [Solana](https://solana.com/fr) ecosystem.
